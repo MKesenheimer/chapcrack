@@ -1,0 +1,3 @@
+passlib
+-e svn+http://dpkt.googlecode.com/svn/trunk/#egg=dpkt
+M2Crypto
